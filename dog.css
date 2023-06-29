@@ -1,0 +1,64 @@
+
+#header {
+    text-align: center;
+    font-size: 60px;
+    font-family: Garamond;
+    background-color: grey;
+    color: white;
+    margin: 0 auto;
+    
+}
+
+body {
+    background-color: moccasin;
+}
+
+h1 {
+    font-family: Garamond;
+    font-style: italic;
+}
+
+h2 {
+    font-family: Garamond;
+    font-size: 40px;
+}
+
+p {
+    font-family: Garamond;
+    font-size: 20px;
+}
+
+#info {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#left {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+}
+
+#right {
+    float: right;
+    width: 33.33%;
+    padding: 10px;
+}
+
+#center {
+    margin: 0 auto;
+    width: 33.33%;
+    padding: 10px;
+}
+
+#list {
+    text-align: center;
+    font-size: 40px;
+}
+
+#logo {
+    width: 180px;
+    length: 180px;
+   
+
+}
